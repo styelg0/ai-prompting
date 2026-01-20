@@ -4,7 +4,7 @@
 ✅ 官方权威资源（第一优先级）
 
 1️⃣ OpenAI官方提示工程指南
-https://platform.openai.com/docs/guides/prompt-engineering
+https://platform.openai.com/docs/guides/prompt-engineering  
 备选: https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api
 
 2️⃣ Anthropic Claude官方最佳实践（最新2025版）
